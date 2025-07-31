@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+tensi.egg-info/PKG-INFO
+tensi.egg-info/SOURCES.txt
+tensi.egg-info/dependency_links.txt
+tensi.egg-info/top_level.txt

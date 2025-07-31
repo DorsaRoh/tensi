@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: tensi
+Version: 0.1.0
+Summary: Tensor visualization library
+Home-page: https://github.com/DorsaRoh/tensi
+Author: Dorsa Rohani
+Author-email: dorsa.rohani@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary
